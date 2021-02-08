@@ -12,7 +12,7 @@
 .OUTPUTS
     Function creates PSCustomObject 
 .NOTES
-    PSP 12/2018
+    Wojtek 02/2021
 #>
 
 function Get-ArduinoIotCloudCredentials {
